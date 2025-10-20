@@ -44,8 +44,9 @@
 
 ## ⚙️ Getting Started  
 
-### 1. Clone the repository  
 ```bash
+
+### 1. Clone the repository
 git clone https://github.com/yourusername/sensai-ai-career-coach.git
 cd sensai-ai-career-coach
 
@@ -56,7 +57,6 @@ yarn install
 
 
 3. Set up environment variables
-
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key=
 CLERK_SECRET_KEY=your_clerk_secret=
 DATABASE_URL=your_neon_database_url=
