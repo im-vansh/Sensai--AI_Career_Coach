@@ -6,7 +6,7 @@
 <h1 align="center">🧠 Sensai – The AI Career Coach</h1>
 
 <p align="center">
-  <b>Empowering your career journey with AI — Build resumes, prepare for interviews, and create cover letters, all in one place.</b>
+  <b>Sensai is an intelligent career coaching platform that helps users elevate their professional journey with AI-powered tools — from crafting ATS-friendly resumes to preparing for interviews and discovering personalized career insights all in one place.</b>
 </p>
 
 <p align="center">
