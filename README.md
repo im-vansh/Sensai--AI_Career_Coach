@@ -1,6 +1,6 @@
 # 🧠 Sensai – AI Career Coach  
 
-**Sensai** is an intelligent career coaching platform that helps users elevate their professional journey with AI-powered tools — from crafting ATS-friendly resumes to preparing for interviews and discovering personalized career insights.  
+**Sensai** is an intelligent career coaching platform that helps users elevate their professional journey with AI-powered tools — from crafting ATS-friendly resumes to preparing for interviews and discovering personalized career insights all in one place.
 
 ---
 
@@ -48,18 +48,26 @@
 ```bash
 git clone https://github.com/yourusername/sensai-ai-career-coach.git
 cd sensai-ai-career-coach
+
+### 2. Install dependencies
 npm install
 # or
 yarn install
 
 
+3. Set up environment variables
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key
-CLERK_SECRET_KEY=your_clerk_secret
-GEMINI_API_KEY=your_gemini_api_key
-DATABASE_URL=your_neon_database_url
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key=
+CLERK_SECRET_KEY=your_clerk_secret=
+DATABASE_URL=your_neon_database_url=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=
+GEMINI_API_KEY=your_gemini_api_key=
 
 
+4. Run the development server
 npm run dev
 # or
 yarn dev
