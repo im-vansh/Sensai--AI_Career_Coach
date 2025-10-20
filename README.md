@@ -56,7 +56,7 @@ npm install
 yarn install
 
 
-3. Set up environment variables
+### 3. Set up environment variables
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key=
 CLERK_SECRET_KEY=your_clerk_secret=
 DATABASE_URL=your_neon_database_url=
@@ -67,7 +67,7 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=
 GEMINI_API_KEY=your_gemini_api_key=
 
 
-4. Run the development server
+### 4. Run the development server
 npm run dev
 # or
 yarn dev
